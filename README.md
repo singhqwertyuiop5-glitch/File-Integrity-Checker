@@ -1,5 +1,12 @@
-# File Integrity Checker (Python)
+COMPANY   : CODTECH IT SOLUTIONS
+NAME      : ADITYA SINGH
+INTERN ID : CT04DR3144
+DOMAIN    : CYBER SECURITY & ETHICAL HACKING
+DURATION  : 4 WEEKS
+MENTOR    : NEELA SANTOSH
 
+
+# File Integrity Checker (Python)
 A simple Python script that checks whether a file has been modified by using SHA-256 hashing.
 This project is intended for learning purposes and demonstrates basic file integrity verification.
 
