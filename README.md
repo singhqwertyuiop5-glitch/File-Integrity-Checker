@@ -9,7 +9,7 @@ This project is intended for learning purposes and demonstrates basic file integ
 - Detects changes in file content
 - Simple command-line usage
 - No external dependencies
-- 
+  
 ## Requirements
 - Python 3.7 or higher
 
