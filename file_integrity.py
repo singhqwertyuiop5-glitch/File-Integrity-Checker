@@ -17,7 +17,7 @@ def save_hash(file_path, hash_value):
 
 def check_integrity(file_path):
     if not os.path.exists(file_path):
-        print("❌ File does not exist.")
+        print(" File does not exist.")
         return
 
     if not os.path.exists(file_path + ".hash"):
@@ -33,9 +33,9 @@ def check_integrity(file_path):
     current_hash = calculate_hash(file_path)
 
     if current_hash == saved_hash:
-        print("✅ File integrity intact. No changes detected.")
+        print("File integrity intact. No changes detected.")
     else:
-        print("⚠️ File has been modified!")
+        print("File has been modified!")
 
 if __name__ == "__main__":
     file_path = input("Enter file path: ")
