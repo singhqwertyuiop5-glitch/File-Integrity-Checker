@@ -43,3 +43,6 @@ No additional libraries required
 ├── file_integrity.py      # Main Python script for integrity checking
 ├── README.md              # Project documentation
 ├── test.txt               # Sample file for testing
+
+# output
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/62fb475f-26d0-4c13-90cb-4e9e4e68a7b5" />
